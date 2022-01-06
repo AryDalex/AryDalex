@@ -20,4 +20,9 @@
 
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=AryDalex&show_icons=true&theme=gotham" alt="AryDalex" style="width:60%;height:auto;"/>
+
+<div align="center">
+  <a href="https://github.com/arydalex">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryDalex&show_icons=true&theme=gotham" alt="AryDalex" style="width:40%;height:auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryDalex&layout=compact&langs_count=7&theme=dark" style="width:48%;height:auto;"/>
+</div
