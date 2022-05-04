@@ -1,16 +1,16 @@
 <h2> Olá, Sou a Arielly! <img src="https://i.picasion.com/pic91/c054d44d5a998705a37d22af9fbb0022.gif" width="50"></h2>
 
-<h3><img src="https://media.tenor.com/images/ca04fa4a620d53abb7913a936b5346e7/tenor.gif" width="50"> Um pouco sobre mim...</h3> 
+> <h3><img src="https://media.tenor.com/images/ca04fa4a620d53abb7913a936b5346e7/tenor.gif" width="50"> Um pouco sobre mim...</h3> 
 
-- 🦋 Tenho 17 anos
+- 🦋 Tenho 18 anos
 - 📓 Estudo no Colégio Estadual Maestro Andréa Nuzzi
 - 👩🏻‍💼 Atualmente estou trabalhando na Pado
-- 🌱 Estou aprendendo: DevOps Básicos e Circuitos Eletrônicos
-- 🦉 Já aprendi o básico de: JavaScript, HTML, CSS, Linguagem C e Circuitos Elétricos
-- 👩🏻‍💻 Quero me especializar em Sistemas Web
+- 🌱 Estou aprendendo: Back-end e Microcontroladores Aplicados a IoT
+- 🦉 Já aprendi o básico de: JavaScript, HTML, CSS, Linguagem C, Circuitos Elétricos e Eletrônicos, Microcontroladores e Sistemas Operacionais
+- 👩🏻‍💻 Quero me especializar em Sistemas Web (Front-end) ou em Firmware
 - 🕐 Passatempo: Música, Ler e Jogar
 
-<h2><img src="https://media0.giphy.com/media/rtRflhLVzbNWU/giphy.gif" width="25"> Links</h2>
+> <h3><img src="https://media0.giphy.com/media/rtRflhLVzbNWU/giphy.gif" width="25"> Links</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/arydalex/"><img src="https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white"></a>
